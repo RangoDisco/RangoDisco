@@ -1,6 +1,6 @@
 ## :speech_balloon: About me: 
 
-### Hi I'm Maxime 🤡 Web Developer student.
+ Hi I'm Maxime 🤡 Web Developer student.
 
 * :lock: Passionate about privacy & open source developement
 * :soccer: Sports/esports enthusiast
