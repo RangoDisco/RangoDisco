@@ -8,12 +8,11 @@
 
 
 ## :gear: Frameworks & Languages: 
-* Angular:
+* ### Angular:
   * Typescript
 
 * HTML
-* CSS
-  * SCSS
+* CSS/SCSS
 * Javascript
 
 ## :construction: Projects: 
@@ -24,7 +23,7 @@
 ## 🛠️ Tools: 
 * Git
 * Unix systems/Windows
-* IDE:
+* ### IDE:
   * VSCodium
   * JetBrains' Toolbox
 
