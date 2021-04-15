@@ -10,7 +10,6 @@
 ## :gear: Frameworks & Languages: 
 * Angular:
   * Typescript
-<hr>
 
 * HTML
 * CSS
