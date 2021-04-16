@@ -1,6 +1,4 @@
-## :speech_balloon: About me: 
-
- Hi I'm Maxime 🤡 Web Developer student.
+ ### Hi I'm Maxime 🤡 Web Developer student.
 
 * :lock: Passionate about privacy & open source developement
 * :soccer: Sports/esports enthusiast
@@ -17,7 +15,7 @@
 
 ## :construction: Projects: 
 
-* [Aurinko](https://github.com/RangoDisco/Aurinko) - A small weather app made with Angular and OpenWeather's api. 
+* #### [Aurinko ☀️](https://github.com/RangoDisco/Aurinko) - A small weather app made with Angular and OpenWeather's api. 
 
 
 ## 🛠️ Tools: 
