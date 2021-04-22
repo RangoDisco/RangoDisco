@@ -1,4 +1,4 @@
- ### Hi I'm Maxime 🤡 Web Developer student.
+ ### Hi I'm Maxime 🤡 Web Developer.
 
 * :lock: Passionate about privacy & open source developement
 * :soccer: Sports/esports enthusiast
