@@ -4,7 +4,6 @@
 * :soccer: Sports/esports enthusiast
 * :headphones: Self-taught musician (kind of)
 
-
 ## :gear: Frameworks & Languages: 
 * ### Angular:
   * Typescript
@@ -14,8 +13,7 @@
 * Javascript
 
 ## :construction: Projects: 
-
-* #### [Aurinko ☀️](https://github.com/RangoDisco/Aurinko) - A small weather app made with Angular and OpenWeather's api. 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Aurinko&theme=ayu-mirage)](https://github.com/RangoDisco/Aurinko)
 
 
 ## 🛠️ Tools: 
@@ -28,7 +26,7 @@
 
 ## :mag: Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RangoDisco&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RangoDisco&layout=compact&theme=ayu-mirage)
 
 
 ### :gem: Keyboard: 
