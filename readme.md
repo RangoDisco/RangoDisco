@@ -14,7 +14,7 @@
 
 ## :construction: Projects: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Aurinko&theme=ayu-mirage)](https://github.com/RangoDisco/Aurinko)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Tjunami&theme=ayu-mirage)](https://github.com/RangoDisco/Tjunami)
 
 ## 🛠️ Tools: 
 * Git
