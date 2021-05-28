@@ -1,4 +1,4 @@
- ### Hi I'm Maxime 🤡 junior Web Developer.
+ ### Hi I'm Maxime junior Web Developer.
 
 * :lock: Passionate about privacy & open source developement
 * :soccer: Sports/esports enthusiast
@@ -15,6 +15,7 @@
 ## :construction: Projects: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Aurinko&theme=ayu-mirage)](https://github.com/RangoDisco/Aurinko)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Tjunami&theme=ayu-mirage)](https://github.com/RangoDisco/Tjunami)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Ohto&theme=ayu-mirage)](https://github.com/RangoDisco/Ohto)
 
 ## 🛠️ Tools: 
 * Git
