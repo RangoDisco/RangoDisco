@@ -7,6 +7,8 @@
 ## :gear: Frameworks & Languages: 
 * ### Angular:
   * Typescript
+* ### Spring:
+  * Java
 
 * HTML
 * CSS/SCSS
