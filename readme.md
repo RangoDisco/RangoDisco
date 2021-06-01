@@ -21,16 +21,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Tjunami&theme=ayu-mirage)](https://github.com/RangoDisco/Tjunami)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Ohto&theme=ayu-mirage)](https://github.com/RangoDisco/Ohto)
 
+## :mag: Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RangoDisco&layout=compact&theme=ayu-mirage)
+
 ## 🛠️ Tools: 
 * ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 * ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 * ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-
-## :mag: Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RangoDisco&layout=compact&theme=ayu-mirage)
 
 
 ### :gem: Keyboard: 
