@@ -35,3 +35,6 @@
 * QWERTY 60% US INTL layout
   * Switch: Tealios v2 linear - 67g
   * Keycaps: GMK Shark Bait
+
+
+Kenavo
