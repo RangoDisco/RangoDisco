@@ -20,9 +20,10 @@
 * ![](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## :construction: Projects: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Aurinko&theme=ayu-mirage)](https://github.com/RangoDisco/Aurinko)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Tjunami&theme=ayu-mirage)](https://github.com/RangoDisco/Tjunami)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=pics-client&theme=ayu-mirage)](https://github.com/RangoDisco/pics-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=pics-server&theme=ayu-mirage)](https://github.com/RangoDisco/pics-server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=Ohto&theme=ayu-mirage)](https://github.com/RangoDisco/Ohto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RangoDisco&repo=portfolio&theme=ayu-mirage)](https://github.com/RangoDisco/portfolio)
 
 ## :mag: Stats:
 
